@@ -36,3 +36,6 @@ Ajouter un champ de recherche et un bouton au dessus de l'historique. Lorsque ce
 * [Babel - Learn ES2015](http://babeljs.io/learn-es2015/)
 * [Try ES6](http://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=latest%2Creact%2Cstage-2&experimental=false&loose=false&spec=false&code=%5B1%2C2%2C3%5D.map(n%20%3D%3E%20n%20%2B%201)%3B&playground=true)
 * [Vanilla Js](http://vanilla-js.com/)
+
+
+---
