@@ -37,6 +37,7 @@ Ajouter un champ de recherche et un bouton au dessus de l'historique. Lorsque ce
 * [Try ES6](http://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=latest%2Creact%2Cstage-2&experimental=false&loose=false&spec=false&code=%5B1%2C2%2C3%5D.map(n%20%3D%3E%20n%20%2B%201)%3B&playground=true)
 * [Vanilla Js](http://vanilla-js.com/)
 * [De jQuery à Vanilla](http://putaindecode.io/fr/articles/js/de-jquery-a-vanillajs/)
+* [You might not need jquery](http://youmightnotneedjquery.com/)
 
 
 ---
